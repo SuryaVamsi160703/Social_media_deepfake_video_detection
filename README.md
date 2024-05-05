@@ -10,10 +10,12 @@ To find our trained model follow this Drive link.
 
 To understand the project in a better way it is structured in below format:
 
+```
 DeepFake-Detection
     |
     |--- DeepFake_Detection
     |--- Requiremnts.txt
+```
 DeepFake_Detection - This is the root folder.
 
 Implementation Video - It shows the whole working of the project.
