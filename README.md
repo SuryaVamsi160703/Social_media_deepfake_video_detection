@@ -1,4 +1,5 @@
-Explanation of the Project
+Explanation of the Project:
+
 This project aims to identify video deepfakes using deep learning algorithms such as ResNext and LSTM. We achieved deepfake detection via transfer learning, in which the pretrained ResNext CNN produces a feature vector, which is then utilized to train the LSTM layer. 
 
 The Dataset we've used to train our model is here
